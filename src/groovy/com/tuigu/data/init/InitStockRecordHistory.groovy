@@ -15,7 +15,7 @@ class InitStockRecordHistory implements IInitData {
 			CSVReaderUtils.eachLine((File) delegate, closure)
 		}
 
-		String pathName = "/home/admin/workspace/new";
+		String pathName = "/home/admin/workspace/new/";
 		File f = new File(pathName);
 		f.list().each{
 			System.out.println(pathName+it);
