@@ -38,9 +38,9 @@ environments {
         dataSource {
             dbCreate = "create-drop"
             logSql = true
-            url = "jdbc:mysql://localhost/tuigu"
+            url = "jdbc:mysql://42.120.21.126/tuigu"
             username = "root"
-            password = "ccclubs2013"
+            password = "19971997"
         }
     }
     localtest {
