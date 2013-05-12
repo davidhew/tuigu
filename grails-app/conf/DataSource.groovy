@@ -29,7 +29,7 @@ environments {
 			logSql = true
             url = "jdbc:mysql://localhost/tuigu"
             username = "root"
-            password = "ccclubs2013"
+            password = "19971997"
         }
 		
 	
@@ -38,9 +38,9 @@ environments {
         dataSource {
             dbCreate = "create-drop"
             logSql = true
-            url = "jdbc:mysql://42.120.21.126/tuigu"
+            url = "jdbc:mysql://localhost/tuigu"
             username = "root"
-            password = "19971997"
+            password = "ccclubs2013"
         }
     }
     localtest {
